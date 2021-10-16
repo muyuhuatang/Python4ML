@@ -18,7 +18,8 @@ In Chinese: 廖雪峰Python教程
   Python playground – environment
   Text editor – Atom
   variables, if-else, loops, functions
-  It covers Chapters 1-5 of the textbook “Python for Everybody” (which is free to download from https://www.py4e.com/). Once a student completes this course, they will be ready to take more advanced programming courses.
+  It covers Chapters 1-5 of the textbook “Python for Everybody” (which is free to download from https://www.py4e.com/).
+  Once a student completes this course, they will be ready to take more advanced programming courses.
   
 2. LinkedIn Learning – Python Essential Training
 
