@@ -1,14 +1,16 @@
 # Python4ML
 Python coding skills for Machine Learning studies/projects/research
 
-author: Huang Fan, you can contact me through email: fhuang181@gmail.com
+Author: Huang Fan, you can contact me through email: fhuang181@gmail.com
 
 ## Simple self-learning websites
 In English: W3C school for python
+
 In Chinese: 廖雪峰Python教程
 
 ## Examples of Introductory Python Online Courses 
 1. Coursera - Python for Everybody
+
   Offered by University of Michigan Instructor: Charles R. Severance Duration:
   Approx. 19 hours to complete
   Python playground – environment
@@ -17,12 +19,14 @@ In Chinese: 廖雪峰Python教程
   It covers Chapters 1-5 of the textbook “Python for Everybody” (which is free to download from https://www.py4e.com/). Once a student completes this course, they will be ready to take more advanced programming courses.
   
 2. LinkedIn Learning – Python Essential Training
+
   Instructor: Bill Weinman
   Duration: 4h 45m
   Komodo platform
   It covers the basics of the language syntax and usage, as well as advanced features such as objects, generators, and exceptions. Learn how types and values are related to objects; how to use control statements, loops, and functions; and how to work with generators and decorators.
   
 3. Kaggle – Python
+
   This online course, complete with exercises, covers Python syntax, variable assignment, functions, Booleans, Conditionals, Lists, Loops, Strings, Dictionaries and Working with external libraries.
 
 reference from [NTU Library workshop resources](https://libguides.ntu.edu.sg/python/workshops)
@@ -64,7 +68,7 @@ Python hands-on codes for intrusion detection:
   https://github.com/PacktPublishing/Python-Digital-Forensics-Cookbook
 
 python regular expression:
-  https://www.w3schools.com/python/python_regex.asp
+  https://www.w3schools.com/python/python_regex.asp / 
   https://www.liaoxuefeng.com/wiki/1016959663602400/1017639890281664
   
 python visualization:
