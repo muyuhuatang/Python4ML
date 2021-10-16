@@ -3,6 +3,8 @@ Python coding skills for Machine Learning studies/projects/research
 
 Author: Huang Fan, you can contact me through email: fhuang181@gmail.com
 
+Update plan: weekly, adding further details on each branch and example codes if necessary
+
 ## Simple self-learning websites
 In English: W3C school for python
 
