@@ -5,7 +5,7 @@ Author: Huang Fan, you can contact me through email: fhuang181@gmail.com
 
 Update plan: weekly, adding further details on each branch and example codes if necessary
 
-## Simple self-learning websites
+## Simple Self-learning Websites
 In English: W3C school for python
 
 In Chinese: 廖雪峰Python教程
@@ -33,7 +33,7 @@ In Chinese: 廖雪峰Python教程
 
 reference from [NTU Library workshop resources](https://libguides.ntu.edu.sg/python/workshops)
 
-## Great hands-on and practical books recommended by Prof Jonathan Pan, NTU
+## Great hands-on and practical books recommended by Prof. Jonathan Pan, NTU
 Automate the Boring Stuff with Python
   https://automatetheboringstuff.com/
 
@@ -51,6 +51,8 @@ keras examples:
   https://keras.io/examples/structured_data/wide_deep_cross_networks/
   https://keras.io/examples/generative/
 
+Deep Learning: 
+  Deep Learning with Keras by Antonio Gulli and Sujit Pal
 sklearn:
   https://scikit-learn.org/stable/modules/sgd.html
 
