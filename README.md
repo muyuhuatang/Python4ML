@@ -3,7 +3,11 @@ Python coding skills for Machine Learning studies/projects/research
 
 author: Huang Fan, you can contact me through email: fhuang181@gmail.com
 
-## Examples of Introductory Python Online Courses [NTU Library workshop contents](https://libguides.ntu.edu.sg/python/workshops)
+## Simple self-learning websites
+In English: W3C school for python
+In Chinese: 廖雪峰Python教程
+
+## Examples of Introductory Python Online Courses 
 1. Coursera - Python for Everybody
   Offered by University of Michigan Instructor: Charles R. Severance Duration:
   Approx. 19 hours to complete
@@ -20,6 +24,8 @@ author: Huang Fan, you can contact me through email: fhuang181@gmail.com
   
 3. Kaggle – Python
   This online course, complete with exercises, covers Python syntax, variable assignment, functions, Booleans, Conditionals, Lists, Loops, Strings, Dictionaries and Working with external libraries.
+
+reference from [NTU Library workshop resources](https://libguides.ntu.edu.sg/python/workshops)
 
 ## Great hands-on and practical books recommended by Prof Jonathan Pan, NTU
 Automate the Boring Stuff with Python
@@ -48,7 +54,6 @@ Preprocessing:
 
 ## Coding Exercise
 kaggle
-
 
 ## Other Resources
 
