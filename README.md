@@ -53,6 +53,7 @@ keras examples:
 
 Deep Learning: 
   Deep Learning with Keras by Antonio Gulli and Sujit Pal
+  
 sklearn:
   https://scikit-learn.org/stable/modules/sgd.html
 
